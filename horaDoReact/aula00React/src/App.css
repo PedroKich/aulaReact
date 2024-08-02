@@ -1,0 +1,5 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    /*background-color: rgb(147, 92, 218);*/
+}
