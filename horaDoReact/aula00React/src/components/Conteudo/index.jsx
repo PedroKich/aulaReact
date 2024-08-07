@@ -10,6 +10,16 @@ function Conteudo() {
       <img src={'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/79bd4594-8997-48cd-9b22-22f59b5a2677/da59mso-61f29ee3-f3bb-4ebf-b00e-01143d1cef08.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc5YmQ0NTk0LTg5OTctNDhjZC05YjIyLTIyZjU5YjVhMjY3N1wvZGE1OW1zby02MWYyOWVlMy1mM2JiLTRlYmYtYjAwZS0wMTE0M2QxY2VmMDgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OwWYMENuTpdKv5VaUIR72BEkc9X2zQfQnn_sjyfektw'} width={250} height={250} alt="Logo" />
       <img src={'https://media.tenor.com/4eBTewwQyt8AAAAi/quagsire-quag.gif'} alt="Logo" />
       <img src={'https://pa1.aminoapps.com/6195/815046c761175a39593eb342b2bcacfb891c395f_00.gif'} alt="Logo" />
+      <iframe
+                            width="349"
+                            height="240"
+                            src="https://www.youtube.com/embed/pXpYA0Y1xsk? 
+                            autoplay=1&mute=0&loop=1"
+                            title="YouTube video player"
+                            frameborder="0"
+        />
+
+      <img src={'https://i.pinimg.com/originals/95/f8/62/95f8620aed04489221787b65f054a467.gif'} width={1920} height={250} alt="Logo" />
       
     </div>
   )

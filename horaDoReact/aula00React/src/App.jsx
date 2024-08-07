@@ -1,13 +1,11 @@
 import './App.css'
-import Header from './components/Header.jsx'
-import Conteudo from './components/Conteudo/index.jsx'
+import Home from './pages/Home'
 function App() {
 
   return (
     <div className='app-container'>
-    <Header></Header>
-    <Conteudo></Conteudo>
-    
+      <Home></Home>
+
     </div>
   )
 }
